@@ -1,5 +1,5 @@
 # Automation learning
-# This scrip creates 10 folders and the 
+# This script creates 10 folders and the 
 # additional 10 subfolders in each foler using 'while' loops.
 
 import os
